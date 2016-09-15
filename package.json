@@ -1,0 +1,21 @@
+{
+  "name": "term-cluster",
+  "version": "0.0.1",
+  "description": "return clusters of terms in a given text",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/test.js"
+  },
+  "keywords": [
+    "term",
+    "cluster"
+  ],
+  "author": "Fergus McDowall",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  },
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}
